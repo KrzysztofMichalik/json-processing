@@ -3,8 +3,8 @@ $host = "localhost";
 $root = "root";
 $root_password = "password";
 
-$user = 'newuser';
-$pass = 'newpass';
+$user = "newuser";
+$pass = "newpass";
 $db = "newdb";
 
 
