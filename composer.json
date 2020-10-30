@@ -1,0 +1,13 @@
+{
+    "name": "krzysztof/smartbees",
+    "description": "recruitment task",
+    "require": {
+        "chillerlan/php-qrcode": "^4.2"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src/"
+        }
+    }
+}
